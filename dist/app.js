@@ -1,4 +1,4 @@
-import { series } from './data/data';
+import { series } from './data/data.js';
 function calcularPromedioTemporadas(series) {
     if (series.length === 0)
         return 0;
