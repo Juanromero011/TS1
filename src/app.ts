@@ -1,5 +1,5 @@
-import { series } from './data/data.js';
-import { Serie } from './models/Serie.js';
+import { series } from './data/data';
+import { Serie } from './models/Serie';
 
 function calcularPromedioTemporadas(series: Serie[]): number {
     if (series.length === 0) return 0;

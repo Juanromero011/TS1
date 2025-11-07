@@ -1,3 +1,3 @@
-import { Serie } from '../models/Serie.js';
+import { Serie } from '../models/Serie';
 export declare const series: Serie[];
 //# sourceMappingURL=data.d.ts.map
